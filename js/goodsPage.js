@@ -327,7 +327,7 @@ const goods = createApp({
                     evaluation: [
                         {
                             star: 5,
-                            content: "作业地址：https://github.com/xmexg/jswork",
+                            
                         },
                     ],
                 },
